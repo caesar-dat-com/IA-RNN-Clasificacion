@@ -1,0 +1,6 @@
+# Dataset Edge Impulse
+
+Colocar aquí los archivos exportados de Edge Impulse (formato Python/NumPy).
+
+- `data/raw/` — datos crudos del acelerómetro (gitignored)
+- `data/` — dataset procesado y etiquetado

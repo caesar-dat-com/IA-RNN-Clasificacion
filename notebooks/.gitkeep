@@ -1,0 +1,6 @@
+# Notebooks
+
+Scripts de Python que serán migrados a Google Colab.
+
+- `notebooks/rnn_simple.py` — Modelo RNN simple
+- `notebooks/lstm.py` — Modelo LSTM

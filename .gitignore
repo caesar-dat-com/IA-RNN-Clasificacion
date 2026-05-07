@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data
+data/raw/
+
+# Models
+models/*.h5
+models/*.keras
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env
+venv/

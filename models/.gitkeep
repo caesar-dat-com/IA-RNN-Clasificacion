@@ -1,0 +1,3 @@
+# Modelos entrenados
+
+Los archivos `.h5` y `.keras` están gitignored para no subir modelos pesados.
