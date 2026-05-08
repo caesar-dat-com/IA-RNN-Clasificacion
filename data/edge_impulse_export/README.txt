@@ -1,4 +1,4 @@
-# Exported dataset for JuanMaya / JuanMaya-project-1
+# Exported dataset for CesarReyes / IA-RNN-Clasificacion
 
 To import this data into a new Edge Impulse project, either use:
 
